@@ -1,0 +1,132 @@
+
+.b1,.b2,.b3,.b4{
+  
+}
+
+
+#wifi{
+    position:absolute;
+	left:0;
+	right:0;
+	margin:60px auto;
+	width:320px;
+}
+
+.wifi{  
+    /* height: 10px;
+    width: 10px; */
+    border-radius: 10px;
+    background-color: red;
+    display:inline-flex;
+    border-radius: 10px solid;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+    -webkit-animation: left 2s linear infinite;
+	-moz-animation: left 2s linear infinite;
+	-o-animation: left 2s linear infinite;
+	animation: left 2s linear infinite;
+}
+ 
+.b2 {-webkit-animation-delay:.9s;
+-moz-animation-delay:.9s;
+-o-animation-delay:.9s;
+animation-delay:.9s;}
+.b3 {-webkit-animation-delay:.8s;
+    -moz-animation-delay:.8s;
+-o-animation-delay:.8s;
+animation-delay:.8s;}
+.b4 {-webkit-animation-delay:.7s;
+        -moz-animation-delay:.7s;
+-o-animation-delay:.7s;
+animation-delay:.7s;}
+
+
+
+.b1{
+    height: 15px;
+
+
+}
+
+
+.b2{
+    height: 30px;
+}
+
+.b3{
+    height: 40px;
+}
+
+
+.b4{
+    height: 50px;
+}
+
+
+.sprint{float: left;
+    position: relative;
+   
+
+    left: 55px;
+    bottom: 103px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@-webkit-keyframes left{
+	0% { border-top: 8px solid rgba(0,0,0,0.1);}
+	100% {border-top: 8px solid #00b7f2;}
+}
+
+	@-moz-keyframes left{
+	0% { border-top: 8px solid rgba(0,0,0,0.1);}
+	100% {border-top: 8px solid #00b7f2;}
+}
+	@-o-keyframes left{
+	0% { border-top: 8px solid rgba(0,0,0,0.1);}
+	100% {border-top: 8px solid #00b7f2;}
+}
+	@keyframes left{
+	0% { border-top: 8px solid rgba(0,0,0,0.1);}
+	100% {border-top: 8px solid #00b7f2;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
